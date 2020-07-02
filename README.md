@@ -1,1 +1,1 @@
-Experiment file is found in  [BrianM_Project/BrianM_Project/mTurkExp.html](https://github.com/vrsivananda/BrianM_Project/blob/master/BrianM_Project/mTurkExp.html)
+Experiment file is found in  [MPDC_RDKpsychometric/Experiment/mTurkExp.html](https://github.com/vrsivananda/MPDC_RDKpsychometric/blob/master/Experiment/mTurkExp.html)
